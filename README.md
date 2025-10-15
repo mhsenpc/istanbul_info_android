@@ -257,7 +257,6 @@ This app was developed with the goal of helping Persian-speaking tourists explor
 
 For support, suggestions, or bug reports:
 
-- **Email:** mhsenpc@gmail.com
 - **Issues:** [GitHub Issues](https://github.com/yourusername/istanbul-info/issues)
 
 ### **Feedback | بازخورد**
