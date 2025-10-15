@@ -38,10 +38,10 @@
                     android:id="@+id/iv_place"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@android:drawable/ic_menu_info_details"
-                    android:scaleType="centerCrop"
                     android:layout_marginBottom="8dp"
-                    android:contentDescription="@string/place_image" />
+                    android:contentDescription="@string/place_image"
+                    android:scaleType="fitCenter"
+                    android:src="@android:drawable/ic_menu_info_details" />
 
                 <TextView
                     android:id="@+id/tv_original_name"

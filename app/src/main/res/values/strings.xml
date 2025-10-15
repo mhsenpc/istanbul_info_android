@@ -33,140 +33,140 @@
 
     <!-- Hagia Sophia Content -->
     <string name="hagia_sophia_title">ایا صوفیه</string>
-    <string name="hagia_sophia_original">Hagia Sophia</string>
+    <string name="hagia_sophia_original">Ayasofya</string>
     <string name="hagia_sophia_history">ایا صوفیه در سال ۵۳۷ میلادی به عنوان کلیسا توسط امپراتور ژوستینین اول ساخته شد و به عنوان یکی از شاهکارهای معماری بیزانس شناخته می‌شود. این بنا پس از فتح استانبول توسط مسلمانان به مسجد تبدیل شد و در دوران جمهوری به موزه تبدیل گردید. ایا صوفیه نماد تلاقی فرهنگ‌ها و ادیان در استانبول است.</string>
     <string name="hagia_sophia_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Sultan Ahmet Meydanı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
     <string name="hagia_sophia_tips">بهترین زمان بازدید: صبح زود برای جلوگیری از شلوغی\nنکته: گنبد و موزاییک‌های بیزانس بسیار دیدنی هستند</string>
 
     <!-- Blue Mosque Content -->
     <string name="blue_mosque_title">مسجد آبی</string>
-    <string name="blue_mosque_original">Blue Mosque</string>
+    <string name="blue_mosque_original">Sultan Ahmet Camii</string>
     <string name="blue_mosque_history">مسجد آبی (مسجد سلطان‌احمد) در سال ۱۶۱۶ توسط سلطان احمد اول ساخته شد و به خاطر کاشی‌های آبی رنگ معروف است. این مسجد با شش مناره، یکی از نمادهای اصلی استانبول و شاهکار معماری عثمانی است. مسجد همچنان به عنوان عبادت‌گاه فعال استفاده می‌شود.</string>
     <string name="blue_mosque_info">موقعیت: منطقه سلطان‌احمد، روبروی ایا صوفیه\nآدرس: Sultan Ahmet Camii, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰ (به جز زمان نماز)\nورود: رایگان</string>
     <string name="blue_mosque_tips">بهترین زمان بازدید: بین نمازها برای شلوغی کمتر\nنکته: لباس مناسب برای ورود به مسجد به همراه داشته باشید</string>
 
     <!-- Topkapi Palace Content -->
     <string name="topkapi_palace_title">کاخ توپکاپی</string>
-    <string name="topkapi_palace_original">Topkapi Palace</string>
+    <string name="topkapi_palace_original">Topkapı Sarayı</string>
     <string name="topkapi_palace_history">کاخ توپکاپی در قرن پانزدهم توسط سلطان محمد فاتح ساخته شد و بیش از ۴۰۰ سال مرکز امپراتوری عثمانی بود. این کاخ شامل چندین ساختمان، حیاط، و مجموعه‌های هنری و تاریخی ارزشمند است و به عنوان یکی از بزرگ‌ترین موزه‌های جهان شناخته می‌شود.</string>
     <string name="topkapi_palace_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Topkapı Sarayı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰ (به جز سه‌شنبه)\nورود: ۱۲۰ لیر ترکیه</string>
     <string name="topkapi_palace_tips">جواهرات سلطنتی و حرم‌سرا بسیار دیدنی هستند\nنکته: حداقل ۳-۴ ساعت برای بازدید کامل نیاز دارید</string>
 
     <!-- Suleymaniye Mosque Content -->
     <string name="suleymaniye_mosque_title">مسجد سلیمانیه</string>
-    <string name="suleymaniye_mosque_original">Suleymaniye Mosque</string>
+    <string name="suleymaniye_mosque_original">Süleymaniye Camii</string>
     <string name="suleymaniye_mosque_history">مسجد سلیمانیه در سال ۱۵۵۷ توسط معمار بزرگ سینان برای سلطان سلیمان قانونی ساخته شد. این مسجد به عنوان شاهکار معماری عثمانی شناخته می‌شود و با گنبد بزرگ و مناره‌های بلند خود، چشم‌انداز زیبایی از شهر دارد.</string>
     <string name="suleymaniye_mosque_info">موقعیت: منطقه فاتح\nآدرس: Süleymaniye Camii, 34116 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: رایگان</string>
     <string name="suleymaniye_mosque_tips">منظره‌ای خیره‌کننده از تنگه بسفر دارد\nنکته: آرامگاه سلطان سلیمان و همسرش در محوطه مسجد قرار دارد</string>
 
     <!-- Grand Bazaar Content -->
     <string name="grand_bazaar_title">بازار بزرگ</string>
-    <string name="grand_bazaar_original">Grand Bazaar</string>
+    <string name="grand_bazaar_original">Kapalıçarşı</string>
     <string name="grand_bazaar_history">بازار بزرگ در قرن پانزدهم ساخته شد و یکی از قدیمی‌ترین و بزرگ‌ترین بازارهای سرپوشیده جهان است. این بازار با بیش از ۴۰۰۰ فروشگاه، مرکز تجارت سنتی و صنایع دستی استانبول بوده و همچنان مقصدی محبوب برای خرید و تفریح است.</string>
     <string name="grand_bazaar_info">موقعیت: منطقه فاتح\nآدرس: Grand Bazaar, 34120 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۹:۰۰ (یکشنبه تعطیل)\nورود: رایگان</string>
     <string name="grand_bazaar_tips">صدها نوع صنایع دستی و سوغاتی در دسترس است\nنکته: مهارت چانه‌زنی برای خرید بهتر ضروری است</string>
 
     <!-- Dolmabahce Palace Content -->
     <string name="dolmabahce_palace_title">کاخ دلمه باغچه</string>
-    <string name="dolmabahce_palace_original">Dolmabahce Palace</string>
+    <string name="dolmabahce_palace_original">Dolmabahçe Sarayı</string>
     <string name="dolmabahce_palace_history">کاخ دلمه باغچه در قرن نوزدهم توسط سلطان عبدالمجید اول ساخته شد و نماد معماری اروپایی در دوره عثمانی است. این کاخ با ترکیبی از سبک‌های معماری مختلف، لوکس‌ترین کاخ امپراتوری عثمانی بود و محل زندگی آخرین خلفای عثمانی بود.</string>
     <string name="dolmabahce_palace_info">موقعیت: منطقه بشیکتاش\nآدرس: Dolmabahçe Sarayı, 34349 Beşiktaş/İstanbul\nساعات بازدید: ۹:۰۰-۱۶:۰۰ (دوشنبه و پنجشنبه تعطیل)\nورود: ۱۵۰ لیر ترکیه</string>
     <string name="dolmabahce_palace_tips">بزرگترین کریستال چلچراغ جهان در این کاخ قرار دارد\nنکته: اتاق مصطفی کمال آتاتورک بسیار بازدید شده است</string>
 
     <!-- Galata Tower Content -->
     <string name="galata_tower_title">برج گالاتا</string>
-    <string name="galata_tower_original">Galata Tower</string>
+    <string name="galata_tower_original">Galata Kulesi</string>
     <string name="galata_tower_history">برج گالاتا در قرن چهاردهم توسط تجار جنوا ساخته شد و قدیمی‌ترین برج استانبول است. این برج با ارتفاع ۶۷ متر، در طول تاریخ به عنوان برج دیده‌بانی و برج آتش‌نشانی استفاده می‌شد و امروزه یکی از بهترین نقاط دیدن منظره شهر است.</string>
     <string name="galata_tower_info">موقعیت: منطقه بی‌اوغلو\nآدرس: Galata Kulesi, 34421 Beyoğlu/İstanbul\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: ۷۵ لیر ترکیه</string>
     <string name="galata_tower_tips">منظره‌ای ۳۶۰ درجه از کل استانبول دارد\nنکته: رستوران بالای برج بسیار پرطرفدار است</string>
 
     <!-- Galata Bridge Content -->
     <string name="galata_bridge_title">پل گالاتا</string>
-    <string name="galata_bridge_original">Galata Bridge</string>
+    <string name="galata_bridge_original">Galata Köprüsü</string>
     <string name="galata_bridge_history">پل گالاتا در سال ۱۸۴۵ ساخته شد و یکی از نمادهای اصلی استانبول است. این پل تاریخی دو بخش اروپایی و آسیایی را به هم متصل می‌کند و محل استراحت، ماهیگیری و تفریح مردم شهر است. پل فعلی در سال ۱۹۹۴ بازسازی شده است.</string>
     <string name="galata_bridge_info">موقعیت: بین کاراکوی و امینونو\nآدرس: Galata Bridge, İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
     <string name="galata_bridge_tips">ماهیگیری از روی پل تفریحی سنتی است\nنکته: رستوران‌های ماهی زیر پل بسیار معروف هستند</string>
 
     <!-- Basilica Cistern Content -->
     <string name="basilica_cistern_title">حوض قیصریه</string>
-    <string name="basilica_cistern_original">Basilica Cistern</string>
+    <string name="basilica_cistern_original">Yerebatan Sarnıcı</string>
     <string name="basilica_cistern_history">حوض قیصریه در قرن ششم میلادی توسط امپراتور ژوستینین اول ساخته شد تا آب شیرین شهر را تأمین کند. این مخزن زیرزمینی با ۳۳۶ ستون مرمری، یکی از شاهکارهای مهندسی بیزانس است و در فیلم‌های معروفی مانند جیمز باند به تصویر کشیده شده است.</string>
     <string name="basilica_cistern_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Yerebatan Sarnıcı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۹۰ لیر ترکیه</string>
     <string name="basilica_cistern_tips">نورپردازی و موسیقی فضایی رؤیایی ایجاد کرده است\nنکته: ستون مدوس و ستون اشک‌ها بسیار دیدنی هستند</string>
 
     <!-- Hagia Sophia Museum Content -->
     <string name="hagia_sophia_museum_title">موزه ایاصوفیا</string>
-    <string name="hagia_sophia_museum_original">Hagia Sophia Museum</string>
+    <string name="hagia_sophia_museum_original">Ayasofya Müzesi</string>
     <string name="hagia_sophia_museum_history">ایاصوفیه که بیش از ۱۵۰۰ سال قدمت دارد، از کلیسای بیزانس به مسجد و سپس به موزه تبدیل شد. این بنا با معماری بی‌نظیر و تاریخ غنی خود، نماد تلاقی فرهنگ‌ها و ادیان در استانبول است و در فهرست میراث جهانی یونسکو ثبت شده است.</string>
     <string name="hagia_sophia_museum_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Ayasofya-i Kebir Cami-i Şerifi, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
     <string name="hagia_sophia_museum_tips">گنبد عظیم و موزاییک‌های بیزانس بسیار دیدنی هستند\nنکته: تاریخچه چندلایه این بنا بسیار جالب است</string>
 
     <!-- Maiden's Tower Content -->
     <string name="maidens_tower_title">برج میدان</string>
-    <string name="maidens_tower_original">Maiden\'s Tower</string>
+    <string name="maidens_tower_original">Kız Kulesi</string>
     <string name="maidens_tower_history">برج میدان در جزیره کوچکی در تنگه بسفر قرار دارد و تاریخچه‌ای غنی به طول ۲۵۰۰ سال دارد. این برج که در ابتدا به عنوان برج دیده‌بانی استفاده می‌شد، امروزه به عنوان رستوران و کافه مقصدی رمانتیک برای گردشگران است.</string>
     <string name="maidens_tower_info">موقعیت: تنگه بسفر\nآدرس: Maiden\'s Tower, Üsküdar/İstanbul\nساعات بازدید: ۱۲:۰۰-۲۳:۰۰\nورود: رایگان (با هزینه رستوران)</string>
     <string name="maidens_tower_tips">منظره‌ای زیبا از شهر و دریا دارد\nنکته: افسانه‌های عاشقانه زیادی درباره این برج وجود دارد</string>
 
     <!-- Beylerbeyi Palace Content -->
     <string name="beylerbeyi_palace_title">کاخ بیازیت</string>
-    <string name="beylerbeyi_palace_original">Beylerbeyi Palace</string>
+    <string name="beylerbeyi_palace_original">Beylerbeyi Sarayı</string>
     <string name="beylerbeyi_palace_history">کاخ بیلربیی در قرن نوزدهم توسط سلطان عبدالعزیز ساخته شد و به عنوان کاخ تابستانی سلاطین عثمانی استفاده می‌شد. این کاخ با معماری زیبا و باغ‌های سرسبز خود، نماد شکوه و عظمت امپراتوری عثمانی در دوره‌های پایانی است.</string>
     <string name="beylerbeyi_palace_info">موقعیت: منطقه اوسکودار\nآدرس: Beylerbeyi Sarayı, 34674 Üsküdar/İstanbul\nساعات بازدید: ۹:۰۰-۱۷:۰۰ (دوشنبه و پنجشنبه تعطیل)\nورود: ۱۰۰ لیر ترکیه</string>
     <string name="beylerbeyi_palace_tips">باغ‌های بسیار زیبا و آرامش‌بخش دارد\nنکته: نمونه‌های معماری عثمانی و اروپایی در این کاخ ترکیب شده‌اند</string>
 
     <!-- Istiklal Avenue Content -->
     <string name="istiklal_avenue_title">خیابان استقلال</string>
-    <string name="istiklal_avenue_original">Istiklal Avenue</string>
+    <string name="istiklal_avenue_original">İstiklal Caddesi</string>
     <string name="istiklal_avenue_history">خیابان استقلال قلب تپنده بخش اروپایی استانبول است و تاریخچه‌ای غنی به قدمت چند قرن دارد. این خیابان که در گذشته به نام خیابان بزرگ معروف بود، مرکز تجارت، فرهنگ و زندگی شهری است و ساختمان‌های تاریخی و کنسولگری‌های زیادی در آن قرار دارد.</string>
     <string name="istiklal_avenue_info">موقعیت: منطقه بی‌اوغلو\nآدرس: İstiklal Caddesi, Beyoğlu/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
     <string name="istiklal_avenue_tips">ترامway قرمز تاریخی تجربه‌ای خاطره‌انگیز است\nنکته: کافه‌ها، فروشگاه‌ها و مراکز فرهنگی زیادی در مسیر است</string>
 
     <!-- Ahrida Synagogue Content -->
     <string name="ahrida_synagogue_title">کنیسه اهریدا</string>
-    <string name="ahrida_synagogue_original">Ahrida Synagogue</string>
+    <string name="ahrida_synagogue_original">Ahrida Sinagogu</string>
     <string name="ahrida_synagogue_history">کنیسه اهریدا در قرن پانزدهم توسط یهودیان اسپانیایی ساخته شد و قدیمی‌ترین کنیسه استانبول است. این کنیسه با معماری خاص و تاریح غنی خود، نماد حضور چند صد ساله جامعه یهودیان در استانبول است.</string>
     <string name="ahrida_synagogue_info">موقعیت: منطقه بالات\nآدرس: Ahrida Synagogue, Balat/İstanbul\nساعات بازدید: با هماهنگی قبلی\nورود: رایگان</string>
     <string name="ahrida_synagogue_tips">معماری منحصر به فرد و بسیار زیبا است\nنکته: برای بازدید نیاز به هماهنگی قبلی دارد</string>
 
     <!-- Turkish and Islamic Arts Museum Content -->
     <string name="turkish_islamic_arts_museum_title">موزه هنرهای ترکیه و اسلامی</string>
-    <string name="turkish_islamic_arts_museum_original">Turkish and Islamic Arts Museum</string>
+    <string name="turkish_islamic_arts_museum_original">Türk ve İslam Eserleri Müzesi</string>
     <string name="turkish_islamic_arts_museum_history">موزه هنرهای ترکیه و اسلامی در سال ۱۹۱۳ تأسیس شد و در کاخ زیبای ابراهیم پاشا قرار دارد. این موزه مجموعه‌های بی‌نظیری از هنر اسلامی، فرش‌های عثمانی، و آثار هنری از سراسر جهان اسلام را در خود جای داده است.</string>
     <string name="turkish_islamic_arts_museum_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Türk ve İslam Eserleri Müzesi, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
     <string name="turkish_islamic_arts_museum_tips">مجموعه‌های فرش عثمانی بسیار ارزشمند هستند\nنکته: ساختمان موزه خود یک اثر تاریخی زیباست</string>
 
     <!-- Ataturk Airport Content -->
     <string name="ataturk_airport_title">فرودگاه آتاتورک</string>
-    <string name="ataturk_airport_original">Ataturk Airport</string>
+    <string name="ataturk_airport_original">Atatürk Havalimanı</string>
     <string name="ataturk_airport_history">فرودگاه بین‌المللی آتاتورک در سال ۱۹۲۴ ساخته شد و به عنوان اصلی‌ترین فرودگاه استانبول برای بیش از ۸۰ سال خدمت کرده است. این فرودگاه که به نام بنیانگذار جمهوری ترکیه نام‌گذاری شده، نقش مهمی در تاریخ هوانوردی ترکیه داشته است.</string>
     <string name="ataturk_airport_info">موقعیت: منطقه ینی‌کاپی\nآدرس: Atatürk Havalimanı, Yeşilköy/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان (برای مسافران)</string>
     <string name="ataturk_airport_tips">یکی از شلوغ‌ترین فرودگاه‌های اروپاست\nنکته: تسهیلات مدرن و کامل برای مسافران دارد</string>
 
     <!-- Egyptian Bazaar Content -->
     <string name="egyptian_bazaar_title">بازار مصری</string>
-    <string name="egyptian_bazaar_original">Egyptian Bazaar</string>
+    <string name="egyptian_bazaar_original">Mısır Çarşısı</string>
     <string name="egyptian_bazaar_history">بازار مصری در قرن هفدهم ساخته شد و به خاطر ادویه‌ها و محصولات وارداتی از مصر معروف است. این بازار با معماری زیبا و رنگارنگ خود، مرکز فروش ادویه‌جات، شیرینی‌های ترکی، و سوغاتی‌های سنتی است.</string>
     <string name="egyptian_bazaar_info">موقعیت: منطقه امینونو\nآدرس: Egyptian Bazaar, 34116 Fatih/İstanbul\nساعات بازدید: ۸:۰۰-۱۹:۰۰ (یکشنبه تعطیل)\nورود: رایگان</string>
     <string name="egyptian_bazaar_tips">ادویه‌جات باکیفیت و متنوعی عرضه می‌شود\nنکته: شیرینی پهلوان و لوکوم ترکی بسیار معروف هستند</string>
 
     <!-- Rumeli Fortress Content -->
     <string name="rumeli_fortress_title">قلعه روملی حصار</string>
-    <string name="rumeli_fortress_original">Rumeli Fortress</string>
+    <string name="rumeli_fortress_original">Rumeli Hisarı</string>
     <string name="rumeli_fortress_history">قلعه روملی حصار در سال ۱۴۵۲ توسط سلطان محمد فاتح قبل از فتح استانبول ساخته شد. این قلعه استراتژیک در تنگه بسفر قرار دارد و نقش مهمی در کنترل عبور و مرور کشتی‌ها و فتح قسطنطنیه داشته است.</string>
     <string name="rumeli_fortress_info">موقعیت: تنگه بسفر\nآدرس: Rumeli Hisarı, Sarıyer/İstanbul\nساعات بازدید: ۹:۰۰-۱۹:۰۰ (سه‌شنبه تعطیل)\nورود: ۱۰۰ لیر ترکیه</string>
     <string name="rumeli_fortress_tips">منظره‌ای زیبا از تنگه بسفر دارد\nنکته: در تابستان کنسرت‌های موسیقی در فضای باز برگزار می‌شود</string>
 
     <!-- Gulhane Park Content -->
     <string name="gulhane_park_title">پارک گولهانه</string>
-    <string name="gulhane_park_original">Gulhane Park</string>
+    <string name="gulhane_park_original">Gülhane Parkı</string>
     <string name="gulhane_park_history">پارک گولهانه در قرن نوزدهم به عنوان بخشی از کاخ توپکاپی ایجاد شد و یکی از زیباترین فضاهای سبز استانبول است. این پارک با درختان قدیمی، گل‌های فصلی، و منظره‌ای زیبا از تنگه بسفر، محل مناسبی برای استراحت و تفریح است.</string>
     <string name="gulhane_park_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Gülhane Park, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: رایگان</string>
     <string name="gulhane_park_tips">محلی عالی برای پیک‌نیک و استراحت\nنکته: بهار بهترین زمان برای بازدید به خاطر شکوفه‌هاست</string>
 
     <!-- Theodosian Walls Content -->
     <string name="theodosian_walls_title">دیوار تئودوسی</string>
-    <string name="theodosian_walls_original">Theodosian Walls</string>
+    <string name="theodosian_walls_original">Teodos Surları</string>
     <string name="theodosian_walls_history">دیوارهای تئودوسی در قرن پنجم میلادی توسط امپراتور تئودوسی دوم ساخته شد و یکی از شاهکارهای مهندسی نظامی دوران باستان است. این دیوارها که شهر را از حملات محافظت می‌کردند، نماد قدرت و عظمت امپراتوری بیزانس بودند.</string>
     <string name="theodosian_walls_info">موقعیت: بخش‌های مختلف شهر\nآدرس: Theodosian Walls, Fatih/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
     <string name="theodosian_walls_tips">بخش‌های سالم‌تر در منطقه ادیرنه‌کاپی قرار دارند\nنکته: نمونه‌ای بی‌نظیر از معماری دفاعی دوران باستان است</string>
