@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">اطلاعات برلین</string>
+    <string name="action_settings">تنظیمات</string>
+
+    <!-- Main Activity -->
+    <string name="main_title">راهنمای گردشگری برلین</string>
+    <string name="welcome_message">به برلین خوش آمدید! شهر تاریخ و فرهنگ</string>
+    <string name="select_attraction">یک جاذبه را برای شروع انتخاب کنید</string>
+
+    <!-- Activity Names -->
+    <string name="brandenburg_gate">دروازه براندنبورگ</string>
+    <string name="berlin_wall">دیوار برلین</string>
+    <string name="reichstag">رایشستاگ</string>
+    <string name="museum_island">جزیره موزه‌ها</string>
+    <string name="charlottenburg_palace">کاخ شارلوتنبورگ</string>
+    <string name="berlin_cathedral">کلیسای جامع برلین</string>
+    <string name="alexanderplatz">میدان الکساندر</string>
+    <string name="potzdamer_platz">پوتسدامر پلاتز</string>
+    <string name="checkpoint_charlie">پاسگاه چارلی</string>
+    <string name="berlin_zoo">باغ وحش برلین</string>
+
+    <!-- Additional Attractions -->
+    <string name="tv_tower">برج تلویزیون برلین</string>
+    <string name="holocaust_memorial">بن یادبود هولوکاست</string>
+    <string name="unter_den_linden">خیابان اونتر دن لیندن</string>
+    <string name="kaiser_wilhelm_church">کنیسه قیصر ویلهلم</string>
+    <string name="gropius_bau">موزه گروپیوس‌بائو</string>
+    <string name="tempelhof_airport">فرودگاه تمپلهوف</string>
+    <string name="hackescher_markt">بازار هاکشر</string>
+    <string name="spandau_citadel">قلعه اسپانداو</string>
+    <string name="treptower_park">پارک ترپتاور</string>
+    <string name="east_side_gallery">گالری ساید شرقی</string>
+
+    <!-- Brandenburg Gate Content -->
+    <string name="brandenburg_gate_title">دروازه براندنبورگ</string>
+    <string name="brandenburg_gate_history">دروازه براندنبورگ در سال ۱۷۹۱ تکمیل شد و نماد شهر برلین است. این دروازه تنها دروازه‌ای بود که از دیوار شهر برلین باقی ماند. در طول تاریخ، شاهد رویدادهای مهمی از جمله ورود ناپلئون و فراز و نشیب‌های جنگ سرد بوده است.</string>
+    <string name="brandenburg_gate_info">موقعیت: میدان پاریزر\nآدرس: Pariser Platz, 10117 Berlin\nساعات بازدید: ۲۴ ساعته، فضای باز\nورود: رایگان</string>
+    <string name="brandenburg_gate_tips">بهترین زمان عکاسی: طلوع و غروب آفتاب\nنکته: در شب بسیار زیبا و روشن است</string>
+
+    <!-- Berlin Wall Content -->
+    <string name="berlin_wall_title">دیوار برلین</string>
+    <string name="berlin_wall_history">دیوار برلین در سال ۱۹۶۱ ساخته شد و برلین را به دو بخش شرقی و غربی تقسیم کرد. این دیوار تا سال ۱۹۸۹ پابرجا بود و نماد جنگ سرد بود. سقوط دیوار برلین نماد اتحاد مجدد آلمان و پایان جنگ سرد بود.</string>
+    <string name="berlin_wall_info">موقعیت: چندین نقطه در شهر\nآدرس: East Side Gallery, Mühlenstraße, 10243 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="berlin_wall_tips">گالری ساید شرقی طولترین بخش باقی‌مانده دیوار است\nنکته: هنر خیابانی‌های آن را از دست ندهید</string>
+
+    <!-- Reichstag Content -->
+    <string name="reichstag_title">رایشستاگ</string>
+    <string name="reichstag_history">ساختمان رایشستاگ در سال ۱۸۹۴ تکمیل شد و محل پارلمان آلمان است. این ساختمان در طول تاریخ شاهد رویدادهای مهمی از جمله آتش‌سوزی معروف سال ۱۹۳۳ و بازسازی پس از اتحاد آلمان بوده است.</string>
+    <string name="reichstag_info">موقعیت: نزدیک دروازه براندنبورگ\nآدرس: Platz der Republik 1, 11011 Berlin\nساعات بازدید: ۸:۰۰-۲۴:۰۰\nورود: رایگان (ثبت‌نام آنلاین لازم)</string>
+    <string name="reichstag_tips">گنcup شیشه‌ای طراحی معروف نورمن فاستر است\nنکته: حتماً قبل از بازدید آنلاین ثبت‌نام کنید</string>
+
+    <!-- Museum Island Content -->
+    <string name="museum_island_title">جزیره موزه‌ها</string>
+    <string name="museum_island_history">جزیره موزه‌ها در سال ۱۹۹۹ در فهرست میراث جهانی یونسکو ثبت شد. این مجموعه شامل پنج موزه معروف است که مجموعه‌های هنری و تاریخی از دوران باستان تا قرن نوزدهم را در خود جای داده‌اند.</string>
+    <string name="museum_island_info">موقعیت: مرکز شهر، روی رود اسپری\nآدرس: Museumsinsel, 10178 Berlin\nساعات بازدید: بسته به موزه\nورود: ۱۸ یورو برای تمام موزه‌ها</string>
+    <string name="museum_island_tips">موزه پرگامون محبوب‌ترین موزه است\nنکته: بلیط یک روزه تمام موزه‌ها مقرون‌به‌صرفه است</string>
+
+    <!-- Charlottenburg Palace Content -->
+    <string name="charlottenburg_palace_title">کاخ شارلوتنبورگ</string>
+    <string name="charlottenburg_palace_history">این کاخ بزرگ‌ترین کاخ در برلین است که در قرن هفدهم برای همسر پادشاه فردریک اول ساخته شد. کاخ در جنگ جهانی دوم به شدت آسیب دید و با دقت بازسازی شد.</string>
+    <string name="charlottenburg_palace_info">موقعیت: غرب برلین\nآدرس: Spandauer Damm 10-22, 14059 Berlin\nساعات بازدید: ۱۰:۰۰-۱۷:۰۰\nورود: ۱۲ یورو</string>
+    <string name="charlottenburg_palace_tips">باغ‌های کاخ بسیار زیبا و برای قدم‌ عالی هستند\nنکته: در تابستان کنسرت‌های موسیقی در باغ برگزار می‌شود</string>
+
+    <!-- Berlin Cathedral Content -->
+    <string name="berlin_cathedral_title">کلیسای جامع برلین</string>
+    <string name="berlin_cathedral_history">این کلیسای جامع باشکوه در سال ۱۹۰۵ تکمیل شد و نماد معماری پروتستان است. گنبد اصلی در جنگ جهانی دوم تخریب شد و در سال ۱۹۹۳ بازسازی شد.</string>
+    <string name="berlin_cathedral_info">موقعیت: جزیره موزه‌ها\nآدرس: Am Lustgarten, 10178 Berlin\nساعات بازدید: ۹:۰۰-۲۰:۰۰\nورود: ۱۰ یورو</string>
+    <string name="berlin_cathedral_tips">از پله‌ها به بالای گنبد بروید تا منظره‌ای فوق‌العاده داشته باشید\nنکته: برای عکاسی داخل کلیسا هزینه جداگانه وجود دارد</string>
+
+    <!-- Alexanderplatz Content -->
+    <string name="alexanderplatz_title">میدان الکساندر</string>
+    <string name="alexanderplatz_history">این میدان در سال ۱۸۰۵ به نام الکساندر اول، پادشاه روسیه نام‌گذاری شد. در دوران آلمان شرقی، میدان الکساندر مرکز تجاری و فرهنگی شهر بود و امروزه نیز یکی از مراکز اصلی برلین است.</string>
+    <string name="alexanderplatz_info">موقعیت: مرکز شرق برلین\nآدرس: 10178 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="alexanderplatz_tips">برج تلویزیون نماد اصلی میدان است\nنکته: برای خرید و تفریحات مناسب است</string>
+
+    <!-- Potsdamer Platz Content -->
+    <string name="potzdamer_platz_title">پوتسدامر پلاتز</string>
+    <string name="potzdamer_platz_history">پوتسدامر پلاتز در دوران طلایی برلین (دهه ۱۹۲۰) شلوغ‌ترین میدان اروپا بود. در جنگ جهانی دوم به طور کامل تخریب شد و در طول تقسیم آلمان در منطقه‌ی مرزی قرار داشت. بازسازی مدرن آن در دهه ۱۹۹۰ انجام شد.</string>
+    <string name="potzdamer_platz_info">موقعیت: مرکز برلین\nآدرس: 10785 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="potzdamer_platz_tips">معماری مدرن آن بسیار دیدنی است\nنکته: در زمستان بازار کریسمس زیبایی دارد</string>
+
+    <!-- Checkpoint Charlie Content -->
+    <string name="checkpoint_charlie_title">پاسگاه چارلی</string>
+    <string name="checkpoint_charlie_history">پاسگاه چارلی معروف‌ترین عبور مرزی بین شرق و غرب برلین بود. این پاسگاه شاهد تنش‌های بسیاری در جنگ سرد بود و امروزه به عنوان موزه و نماد تاریخی باقی مانده است.</string>
+    <string name="checkpoint_charlie_info">موقعیت: کایزردام\nآدرس: Friedrichstraße 43-45, 10969 Berlin\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: موزه ۱۴.۵ یورو</string>
+    <string name="checkpoint_charlie_tips">موزه پاسگاه چارلی بسیار دیدنی است\nنکته: افراد لباس‌پوش سربازان آمریکایی برای عکاسی وجود دارند</string>
+
+    <!-- Berlin Zoo Content -->
+    <string name="berlin_zoo_title">باغ وحش برلین</string>
+    <string name="berlin_zoo_history">باغ وحش برلین قدیمی‌ترین باغ وحش آلمان است که در سال ۱۸۴۴ تأسیس شد. در جنگ جهانی دوم تقریباً تمام حیوانات از بین رفتند، اما پس از جنگ با دقت بازسازی شد و امروزه یکی از معروف‌ترین باغ‌وحش‌های اروپاست.</string>
+    <string name="berlin_zoo_info">موقعیت: غرب مرکز شهر\nآدرس: Hardenbergplatz 8, 10787 Berlin\nساعات بازدید: ۹:۰۰-۱۸:۳۰\nورود: ۱۶ یورو</string>
+    <string name="berlin_zoo_tips">بیش از ۲۰,۰۰۰ حیوان در این باغ وحش زندگی می‌کنند\nنکته: آکواریوم مجزا هزینه ورودی جداگانه دارد</string>
+
+    <!-- TV Tower Content -->
+    <string name="tv_tower_title">برج تلویزیون برلین</string>
+    <string name="tv_tower_history">برج تلویزیون برلین در سال ۱۹۶۹ ساخته شد و با ارتفاع ۳۶۸ متر، بلندترین ساختمان آلمان است. این برج در دوران آلمان شرقی به عنوان نماد قدرت فناوری و پیشرفت سوسیالیستی ساخته شد و امروزه یکی از نمادهای اصلی برلین محسوب می‌شود.</string>
+    <string name="tv_tower_info">موقعیت: میدان الکساندر\nآدرس: Panoramastraße 1A, 10178 Berlin\nساعات بازدید: ۹:۰۰-۲۴:۰۰\nورود: ۱۶.۵۰ یورو</string>
+    <string name="tv_tower_tips">از بالای برج منظره‌ای ۳۶۰ درجه از شهر را ببینید\nنکته: رستوران دوار در بالای برج تجربه‌ای منحصر به فرد است</string>
+
+    <!-- Holocaust Memorial Content -->
+    <string name="holocaust_memorial_title">بن یادبود هولوکاست</string>
+    <string name="holocaust_memorial_history">این بن یادبود به یاد یهودیان قربانی هولوکاست در جنگ جهانی دوم ساخته شد و در سال ۲۰۰۵ افتتاح گردید. مجموعه شامل ۲۷۱۱ ستون بتنی است که بازدیدکنندگان را به عبور و تفکر دعوت می‌کند.</string>
+    <string name="holocaust_memorial_info">موقعیت: مرکز شهر\nآدرس: Cora-Berliner-Straße 1, 10117 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="holocaust_memorial_tips">موزه زیرزمینی بسیار تأثیرگذار است\nنکته: با احترام و سکوت در میان ستون‌ها راه بروید</string>
+
+    <!-- Unter den Linden Content -->
+    <string name="unter_den_linden_title">خیابان اونتر دن لیندن</string>
+    <string name="unter_den_linden_history">این خیابان معروف در قرن هفدهم به عنوان مسیر سواری پادشاه به قصر شارلوتنبورگ ساخته شد و به خاطر درختان لیندن (نوعی درخت نعناع) نام‌گذاری گردید. این خیابان شاهد رویدادهای تاریخی مهمی بوده و قلب تپنده برلین محسوب می‌شود.</string>
+    <string name="unter_den_linden_info">موقعیت: از دروازه براندنبورگ تا جزیره موزه‌ها\nآدرس: Unter den Linden, 10117 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="unter_den_linden_tips">پیاده‌روی در این خیابان تجربه‌ای تاریخی است\nنکته: ساختمان‌های تاریخی و کافه‌های زیبایی در مسیر وجود دارد</string>
+
+    <!-- Kaiser Wilhelm Church Content -->
+    <string name="kaiser_wilhelm_church_title">کنیسه قیصر ویلهلم</string>
+    <string name="kaiser_wilhelm_church_history">این کنیسه در سال ۱۸۹۵ به افتخار قیصر ویلهلم اول ساخته شد و در بمباران‌های جنگ جهانی دوم به شدت آسیب دید. ویرانه‌های آن به عنوان یادبود جنگ حفظ شده و کنیسه جدیدی در کنار آن ساخته شد.</string>
+    <string name="kaiser_wilhelm_church_info">موقعیت: مرکز خرید غرب برلین\nآدرس: Breitscheidplatz, 10789 Berlin\nساعات بازدید: ۹:۰۰-۱۹:۰۰\nورود: رایگان</string>
+    <string name="kaiser_wilhelm_church_tips">شیشه‌های رنگی آبی جدید بسیار زیبا هستند\nنکته: ویرانه‌ها نماد صلح و آشتی هستند</string>
+
+    <!-- Gropius Bau Content -->
+    <string name="gropius_bau_title">موزه گروپیوس‌بائو</string>
+    <string name="gropius_bau_history">این ساختمان در سال ۱۸۸۱ به عنوان موزه هنرهای تزئینی طراحی شد و یکی از مهم‌ترین موزه‌های هنر مدرن برلین است. ساختمان به خاطر معماری زیبا و نمایشگاه‌های هنری متنوع شهرت جهانی دارد.</string>
+    <string name="gropius_bau_info">موقعیت: نزدیک پاسگاه چارلی\nآدرس: Niederkirchnerstraße 7, 10963 Berlin\nساعات بازدید: ۱۰:۰۰-۱۸:۰۰\nورود: بسته به نمایشگاه</string>
+    <string name="gropius_bau_tips">نمایشگاه‌های هنری مدرن و معاصر بسیار عالی هستند\nنکته: فضای باز در مرکز ساختمان برای استراحت مناسب است</string>
+
+    <!-- Tempelhof Airport Content -->
+    <string name="tempelhof_airport_title">فرودگاه تمپلهوف</string>
+    <string name="tempelhof_airport_history">این فرودگاه در سال ۱۹۲۳ ساخته شد و یکی از بزرگ‌ترین فرودگاه‌های اروپا در دوران نازی‌ها بود. پس از جنگ، فرودگاه در محاصره برلین نقش حیاتی داشت و امروزه به عنوان پارک بزرگ شهری استفاده می‌شود.</string>
+    <string name="tempelhof_airport_info">موقعیت: جنوب برلین\nآدرس: Platz der Luftbrücke, 12101 Berlin\nساعات بازدید: ۶:۰۰-غروب\nورود: رایگان</string>
+    <string name="tempelhof_airport_tips">پارک بسیار بزرگ برای دوچرخه‌سواری و پیاده‌روی عالی است\nنکته: تورهای ساختمان فرودگاه بسیار دیدنی است</string>
+
+    <!-- Hackescher Markt Content -->
+    <string name="hackescher_markt_title">بازار هاکشر</string>
+    <string name="hackescher_markt_history">این منطقه در قرن نوزدهم به عنوان مرکز تجاری توسعه یافت و امروزه یکی از پرجنب‌وجوش‌ترین مناطق برلین است. معابر کوچک، کافه‌های هنری و فروشگاه‌های مستقل این منطقه را به محلی محبوب تبدیل کرده‌اند.</string>
+    <string name="hackescher_markt_info">موقعیت: مرکز شرق برلین\nآدرس: Hackescher Markt, 10178 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="hackescher_markt_tips">کافه‌ها و رستوران‌های عالی برای نوشیدن قهوه\nنکته: معابر کوچک و ساختمان‌های تاریخی بسیار دیدنی هستند</string>
+
+    <!-- Spandau Citadel Content -->
+    <string name="spandau_citadel_title">قلعه اسپانداو</string>
+    <string name="spandau_citadel_history">این قلعه در قرن شانزدهم ساخته شد و یکی از کامل‌ترین قلعه‌های متوسط در اروپا محسوب می‌شود. قلعه در طول تاریخ آسیب کمی دیده و امروزه میزبان موزه‌ها و رویدادهای فرهنگی است.</string>
+    <string name="spandau_citadel_info">موقعیت: غرب برلین\nآدرس: Am Juliusturm 64, 13599 Berlin\nساعات بازدید: ۱۰:۰۰-۱۷:۰۰\nورود: ۵.۵۰ یورو</string>
+    <string name="spandau_citadel_tips">برترین مناظر شهر را از بالای قلعه ببینید\nنکته: در تابستان کنسرت‌های در فضای باز برگزار می‌شود</string>
+
+    <!-- Treptower Park Content -->
+    <string name="treptower_park_title">پارک ترپتاور</string>
+    <string name="treptower_park_history">این پارک در قرن نوزدهم به عنوان فضای سبز تفریحی ساخته شد و بن یادبود جنگ شوروی در آن قرار دارد. پارک در کنار رود اسپری و برای پیاده‌روی، دوچرخه‌سواری و تفریحات آبی بسیار مناسب است.</string>
+    <string name="treptower_park_info">موقعیت: شرق برلین\nآدرس: Am Treptower Park, 12435 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="treptower_park_tips">بن یادبود جنگ بسیار باشکوه است\nنکته: قایقرانی در رود اسپری لذت‌بخش است</string>
+
+    <!-- East Side Gallery Content -->
+    <string name="east_side_gallery_title">گالری ساید شرقی</string>
+    <string name="east_side_gallery_history">این گالری در سال ۱۹۹۰ توسط هنرمندان بین‌المللی بر روی دیوار برلین ایجاد شد و طولانی‌ترین بخش باقی‌مانده دیوار است. نقاشی‌های دیواری نماد امید، آزادی و اتحاد آلمان هستند.</string>
+    <string name="east_side_gallery_info">موقعیت: شرق رود اسپری\nآدرس: Mühlenstraße, 10243 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="east_side_gallery_tips">هنر خیابانی بسیار خلاقانه و معنادار\nنکته: بهتر است در صبح زود بازدید کنید تا شلوغ نباشد</string>
+
+    <!-- Common UI Strings -->
+    <string name="back">بازگشت</string>
+    <string name="history">تاریخچه</string>
+    <string name="information">اطلاعات</string>
+    <string name="tips">نکات مفید</string>
+    <string name="learn_more">بیشتر بدانید</string>
+    <string name="navigation_drawer_open">باز کردن منوی ناوبری</string>
+    <string name="navigation_drawer_close">بستن منوی ناوبری</string>
+
+    <!-- Navigation Menu -->
+    <string name="nav_attractions">جاذبه‌های تاریخی</string>
+    <string name="nav_museums">موزه‌ها</string>
+    <string name="nav_monuments">بناهای تاریخی</string>
+    <string name="nav_about">درباره برنامه</string>
+
+    <!-- Legacy fragment strings (for compatibility) -->
+    <string name="first_fragment_label">بخش اول</string>
+    <string name="second_fragment_label">بخش دوم</string>
+    <string name="next">بعدی</string>
+    <string name="previous">قبلی</string>
+
+    <string name="lorem_ipsum">
+        برلین پایتخت آلمان و یکی از مهم‌ترین شهرهای اروپا است. این شهر با تاریخ غنی، فرهنگ متنوع و معماری مدرن، مقصدی جذاب برای گردشگران از سراسر جهان است. برلین شاهد رویدادهای تاریخی مهمی در طول قرن‌ها بوده است و امروزه به عنوان مرکز فرهنگ، هنر و نوآوری در اروپا شناخته می‌شود. از بناهای تاریخی گرفته تا موزه‌های جهانی و فضاهای سبز زیبا، برلین تجربه‌ای فراموش‌نشدنی برای بازدیدکنندگان فراهم می‌کند.
+    </string>
+
+    <!-- About Screen Strings -->
+    <string name="about_title">درباره برنامه</string>
+    <string name="version">نسخه 1.0</string>
+    <string name="app_description">راهنمای گردشگری برلین - برنامه‌ای جامع برای کشف زیبایی‌ها و تاریخ پایتخت آلمان</string>
+    <string name="features">ویژگی‌های برنامه</string>
+    <string name="features_list">• اطلاعات کامل ۲۰ مکان تاریخی و گردشگری برلین\n• تاریخچه غنی هر مکان به زبان فارسی\n• اطلاعات بازدید و آدرس دقیق\n• نکات مفید برای بازدید بهتر\n• رابط کاربری ساده و زیبا\n• پشتیبانی کامل از زبان فارسی</string>
+    <string name="developer_info">توسعه‌دهنده</string>
+    <string name="developer_name">محسن شامحمدی</string>
+    <string name="developer_details">محسن شامحمدی\n\nاین برنامه با هدف آشنایی گردشگران فارسی‌زبان با جاذبه‌های تاریخی برلین طراحی شده است. تمامی محتوا به زبان فارسی ارائه شده تا بازدید از این شهر زیبا برای شما آسان‌تر و لذت‌بخش‌تر باشد.</string>
+    <string name="contact_info">اطلاعات تماس</string>
+    <string name="contact_details">ایمیل: mhsenpc@gmail.com\n\nبرای ارسال نظرات، پیشنهادات و گزارش مشکلات می‌توانید از طریق ایمیل با ما در ارتباط باشید. نظرات شما به بهبود برنامه کمک می‌کند.</string>
+    <string name="place_image">تصویر مکان</string>
+    <string name="developer_image">تصویر توسعه‌دهنده</string>
+    <string name="error_loading_content">خطا در بارگذاری اطلاعات</string>
+    <string name="error_content_unavailable">متأسفیم، اطلاعات این مکان در دسترس نیست.</string>
+    <string name="error_try_again">لطفاً بعداً دوباره تلاش کنید.</string>
+    <string name="image_label">تصویر:</string>
+    <string name="original_name_label">نام اصلی:</string>
+
+    <!-- Original Place Names -->
+    <string name="brandenburg_gate_original">Brandenburg Gate</string>
+    <string name="berlin_wall_original">Berlin Wall</string>
+    <string name="reichstag_original">Reichstag Building</string>
+    <string name="museum_island_original">Museum Island</string>
+    <string name="charlottenburg_palace_original">Charlottenburg Palace</string>
+    <string name="berlin_cathedral_original">Berlin Cathedral</string>
+    <string name="alexanderplatz_original">Alexanderplatz</string>
+    <string name="potsdamer_platz_original">Potsdamer Platz</string>
+    <string name="checkpoint_charlie_original">Checkpoint Charlie</string>
+    <string name="berlin_zoo_original">Berlin Zoo</string>
+    <string name="tv_tower_original">TV Tower</string>
+    <string name="holocaust_memorial_original">Holocaust Memorial</string>
+    <string name="unter_den_linden_original">Unter den Linden</string>
+    <string name="kaiser_wilhelm_church_original">Kaiser Wilhelm Church</string>
+    <string name="gropius_bau_original">Gropius Bau</string>
+    <string name="tempelhof_airport_original">Tempelhof Airport</string>
+    <string name="hackescher_markt_original">Hackescher Markt</string>
+    <string name="spandau_citadel_original">Spandau Citadel</string>
+    <string name="treptower_park_original">Treptower Park</string>
+    <string name="east_side_gallery_original">East Side Gallery</string>
+
+    <!-- Bookmark Strings -->
+    <string name="bookmark_place">نشانکذاری مکان</string>
+    <string name="remove_bookmark">حذف نشانکذاری</string>
+    <string name="bookmarks">نشانکذاری‌ها</string>
+    <string name="no_bookmarks">هنوز هیچ مکانی را نشانکذاری نکرده‌اید</string>
+    <string name="tap_star_to_bookmark">برای نشانکذاری روی ستاره ضربه بزنید</string>
+    <string name="add_bookmark">افزودن نشانکذاری</string>
+
+    <!-- References Screen Strings -->
+    <string name="references_title">منابع و مراجع</string>
+    <string name="references">منابع</string>
+    <string name="references_description">لیست منابع و مراجع مفید برای اطلاعات بیشتر</string>
+    <string name="error_no_browser">مرورگر وب یافت نشد</string>
+
+    <!-- Search Strings -->
+    <string name="search_title">جستجوی مکان‌ها</string>
+    <string name="search_hint">نام مکان یا کلمه کلیدی را وارد کنید...</string>
+    <string name="search_icon">جستجو</string>
+    <string name="clear_search">پاک کردن جستجو</string>
+    <string name="no_results_found">نتیجه‌ای یافت نشد</string>
+    <string name="search_empty_state">برای جستجو، نام یک مکان را وارد کنید</string>
+    <string name="more_options">گزینه‌های بیشتر</string>
+
+</resources>
