@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+
+    <!-- Circle background -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M0,96 c0-52.8 43.2-96 96-96 s96,43.2 96,96 s-43.2,96-96,96 s-96-43.2-96-96 z" />
+
+    <!-- Decorative border -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M8,96 c0-48.8 39.2-88 88-88 s88,39.2 88,88 s-39.2,88-88,88 s-88-39.2-88-88 z"
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="3.2" />
+
+    <!-- Corner decorations -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M24,24 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M168,24 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M24,168 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M168,168 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+
+    <!-- Inner decorative circle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M16,96 c0-44.2 35.8-80 80-80 s80,35.8 80,80 s-35.8,80-80,80 s-80-35.8-80-80 z"
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="0.8" />
+
+    <!-- Hagia Sophia with enhanced details -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M48,96 c0-9.6 8-17.6 17.6-17.6 s17.6,8 17.6,17.6 h-4.8 c0-7.2-5.6-12.8-12.8-12.8 s-12.8,5.6-12.8,12.8 h-4.8 z" />
+
+    <!-- Hagia Sophia main dome detail -->
+    <path
+        android:fillColor="#B91C1C"
+        android:pathData="M56,84 c2.4,-1.6 5.6,-1.6 8,0 c2.4,1.6 5.6,1.6 8,0" />
+
+    <!-- Enhanced Minarets -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M44,96 h-2.4 v-24 h2.4 z M84,96 h-2.4 v-24 h2.4 z" />
+
+    <!-- Minaret tops with detail -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M41.6,72 h-3.2 v-8 h3.2 z M84.8,72 h-3.2 v-8 h3.2 z" />
+
+    <!-- Minaret spires -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M40,64 h0.8 v-4 h-0.8 z M84,64 h0.8 v-4 h-0.8 z" />
+
+    <!-- Blue Mosque with enhanced details -->
+    <path
+        android:fillColor="#1E40AF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M112,96 c0-8 6.4-14.4 14.4-14.4 s14.4,6.4 14.4,14.4 h-3.2 c0-6.4-4.8-11.2-11.2-11.2 s-11.2,4.8-11.2,11.2 h-3.2 z" />
+
+    <!-- Blue Mosque main dome detail -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M118,86 c2,-1.2 4.8,-1.2 6.8,0 c2,1.2 4.8,1.2 6.8,0" />
+
+    <!-- Enhanced Blue Mosque Minarets -->
+    <path
+        android:fillColor="#1E40AF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M144,96 h-2.4 v-20 h2.4 z M104,96 h-2.4 v-20 h2.4 z" />
+
+    <!-- Blue Mosque minaret tops -->
+    <path
+        android:fillColor="#1E40AF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M140.8,76 h-3.2 v-6 h3.2 z M100.8,76 h-3.2 v-6 h3.2 z" />
+
+    <!-- Blue Mosque minaret spires -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M139.2,70 h0.8 v-3 h-0.8 z M99.2,70 h0.8 v-3 h-0.8 z" />
+
+    <!-- Enhanced Crescent Moon -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M144,64 c2.4,0 4.8,1.6 5.6,4 c-0.8,2.4-3.2,4-5.6,4 c-2.4,0-4.8-1.6-5.6-4 C139.2,65.6 141.6,64 144,64 z" />
+
+    <!-- Enhanced Star -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M150,70 c0.8,0 1.2,0.4 1.2,1.2 s-0.4,1.2-1.2,1.2 s-1.2-0.4-1.2-1.2 S149.2,70 150,70 z" />
+
+    <!-- Additional star details -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M150,68.5 l0.3,0.9 l0.9,0 l-0.7,0.5 l0.3,0.9 l-0.8-0.6 l-0.8,0.6 l0.3-0.9 l-0.7-0.5 l0.9,0 z" />
+
+</vector>

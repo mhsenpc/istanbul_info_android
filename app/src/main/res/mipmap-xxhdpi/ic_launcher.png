@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="144dp"
+    android:height="144dp"
+    android:viewportWidth="144"
+    android:viewportHeight="144">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M0,72 c0-39.6 32.4-72 72-72 s72,32.4 72,72 s-32.4,72-72,72 s-72-32.4-72-72 z" />
+
+    <!-- Decorative border -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M6,72 c0-36.6 29.4-66 66-66 s66,29.4 66,66 s-29.4,66-66,66 s-66-29.4-66-66 z"
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="2.4" />
+
+    <!-- Hagia Sophia Dome -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M36,72 c0-7.2 6-13.2 13.2-13.2 s13.2,6 13.2,13.2 h-3.6 c0-5.4-4.2-9.6-9.6-9.6 s-9.6,4.2-9.6,9.6 h-3.6 z" />
+
+    <!-- Minarets -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.9"
+        android:pathData="M33,72 h-1.8 v-18 h1.8 z M63,72 h-1.8 v-18 h1.8 z" />
+
+    <!-- Minaret tops -->
+    <path
+        android:fillColor="#DC2626"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.9"
+        android:pathData="M31.2,54 h-2.4 v-6 h2.4 z M63.6,54 h-2.4 v-6 h2.4 z" />
+
+    <!-- Blue Mosque Dome -->
+    <path
+        android:fillColor="#1E40AF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M84,72 c0-6 4.8-10.8 10.8-10.8 s10.8,4.8 10.8,10.8 h-2.4 c0-4.8-3.6-8.4-8.4-8.4 s-8.4,3.6-8.4,8.4 h-2.4 z" />
+
+    <!-- Blue Mosque Minaret -->
+    <path
+        android:fillColor="#1E40AF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.9"
+        android:pathData="M108,72 h-1.8 v-15 h1.8 z" />
+
+    <!-- Crescent Moon -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M108,48 c1.8,0 3.6,1.2 4.2,3 c-0.6,1.8-2.4,3-4.2,3 c-1.8,0-3.6-1.2-4.2-3 C104.4,49.2 106.2,48 108,48 z" />
+
+    <!-- Star -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M112.5,52.5 c0.6,0 0.9,0.3 0.9,0.9 s-0.3,0.9-0.9,0.9 s-0.9-0.3-0.9-0.9 S111.9,52.5 112.5,52.5 z" />
+
+    <!-- Location Pin -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M120,108 c0-2.4 2.4-4.8 4.8-4.8 s4.8,2.4 4.8,4.8 c0,3.6-4.8,8.4-4.8,8.4 s-4.8-4.8-4.8-8.4 z" />
+
+    <!-- Pin center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M123.6,106.8 a1.2,1.2 0 1,1 0,0.1 z" />
+
+    <!-- ISTANBUL text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,120 v-6 h3 v6 z M36,120 v-4.5 h1.5 v4.5 z M39,120 v-6 h3 v6 z M45,120 v-4.5 h1.5 v4.5 z M48,120 v-6 h3 v6 z M54,120 v-4.5 h1.5 v4.5 z" />
+
+    <!-- Bridge arch -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M90,90 h30 v-3 h-30 z M90,93 h3 v4.5 h-3 z M117,93 h3 v4.5 h-3 z" />
+
+</vector>
