@@ -1,155 +1,155 @@
 <resources>
-    <string name="app_name">اطلاعات برلین</string>
+    <string name="app_name">اطلاعات استانبول</string>
     <string name="action_settings">تنظیمات</string>
 
     <!-- Main Activity -->
-    <string name="main_title">راهنمای گردشگری برلین</string>
-    <string name="welcome_message">به برلین خوش آمدید! شهر تاریخ و فرهنگ</string>
+    <string name="main_title">راهنمای گردشگری استانبول</string>
+    <string name="welcome_message">به استانبول خوش آمدید! شهر تاریخ و فرهنگ</string>
     <string name="select_attraction">یک جاذبه را برای شروع انتخاب کنید</string>
 
     <!-- Activity Names -->
-    <string name="brandenburg_gate">دروازه براندنبورگ</string>
-    <string name="berlin_wall">دیوار برلین</string>
-    <string name="reichstag">رایشستاگ</string>
-    <string name="museum_island">جزیره موزه‌ها</string>
-    <string name="charlottenburg_palace">کاخ شارلوتنبورگ</string>
-    <string name="berlin_cathedral">کلیسای جامع برلین</string>
-    <string name="alexanderplatz">میدان الکساندر</string>
-    <string name="potzdamer_platz">پوتسدامر پلاتز</string>
-    <string name="checkpoint_charlie">پاسگاه چارلی</string>
-    <string name="berlin_zoo">باغ وحش برلین</string>
+    <string name="hagia_sophia">ایا صوفیه</string>
+    <string name="blue_mosque">مسجد آبی</string>
+    <string name="topkapi_palace">کاخ توپکاپی</string>
+    <string name="suleymaniye_mosque">مسجد سلیمانیه</string>
+    <string name="grand_bazaar">بازار بزرگ</string>
+    <string name="dolmabahce_palace">کاخ دلمه باغچه</string>
+    <string name="galata_tower">برج گالاتا</string>
+    <string name="galata_bridge">پل گالاتا</string>
+    <string name="basilica_cistern">حوض قیصریه</string>
+    <string name="hagia_sophia_museum">موزه ایاصوفیا</string>
 
     <!-- Additional Attractions -->
-    <string name="tv_tower">برج تلویزیون برلین</string>
-    <string name="holocaust_memorial">بن یادبود هولوکاست</string>
-    <string name="unter_den_linden">خیابان اونتر دن لیندن</string>
-    <string name="kaiser_wilhelm_church">کنیسه قیصر ویلهلم</string>
-    <string name="gropius_bau">موزه گروپیوس‌بائو</string>
-    <string name="tempelhof_airport">فرودگاه تمپلهوف</string>
-    <string name="hackescher_markt">بازار هاکشر</string>
-    <string name="spandau_citadel">قلعه اسپانداو</string>
-    <string name="treptower_park">پارک ترپتاور</string>
-    <string name="east_side_gallery">گالری ساید شرقی</string>
+    <string name="maidens_tower">برج میدان</string>
+    <string name="beylerbeyi_palace">کاخ بیازیت</string>
+    <string name="istiklal_avenue">خیابان استقلال</string>
+    <string name="ahrida_synagogue">کنیسه اهریدا</string>
+    <string name="turkish_islamic_arts_museum">موزه هنرهای ترکیه و اسلامی</string>
+    <string name="ataturk_airport">فرودگاه آتاتورک</string>
+    <string name="egyptian_bazaar">بازار مصری</string>
+    <string name="rumeli_fortress">قلعه روملی حصار</string>
+    <string name="gulhane_park">پارک گولهانه</string>
+    <string name="theodosian_walls">دیوار تئودوسی</string>
 
-    <!-- Brandenburg Gate Content -->
-    <string name="brandenburg_gate_title">دروازه براندنبورگ</string>
-    <string name="brandenburg_gate_history">دروازه براندنبورگ در سال ۱۷۹۱ تکمیل شد و نماد شهر برلین است. این دروازه تنها دروازه‌ای بود که از دیوار شهر برلین باقی ماند. در طول تاریخ، شاهد رویدادهای مهمی از جمله ورود ناپلئون و فراز و نشیب‌های جنگ سرد بوده است.</string>
-    <string name="brandenburg_gate_info">موقعیت: میدان پاریزر\nآدرس: Pariser Platz, 10117 Berlin\nساعات بازدید: ۲۴ ساعته، فضای باز\nورود: رایگان</string>
-    <string name="brandenburg_gate_tips">بهترین زمان عکاسی: طلوع و غروب آفتاب\nنکته: در شب بسیار زیبا و روشن است</string>
+    <!-- Hagia Sophia Content -->
+    <string name="hagia_sophia_title">ایا صوفیه</string>
+    <string name="hagia_sophia_history">ایا صوفیه در سال ۵۳۷ میلادی به عنوان کلیسا توسط امپراتور ژوستینین اول ساخته شد و به عنوان یکی از شاهکارهای معماری بیزانس شناخته می‌شود. این بنا پس از فتح استانبول توسط مسلمانان به مسجد تبدیل شد و در دوران جمهوری به موزه تبدیل گردید. ایا صوفیه نماد تلاقی فرهنگ‌ها و ادیان در استانبول است.</string>
+    <string name="hagia_sophia_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Sultan Ahmet Meydanı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
+    <string name="hagia_sophia_tips">بهترین زمان بازدید: صبح زود برای جلوگیری از شلوغی\nنکته: گنبد و موزاییک‌های بیزانس بسیار دیدنی هستند</string>
 
-    <!-- Berlin Wall Content -->
-    <string name="berlin_wall_title">دیوار برلین</string>
-    <string name="berlin_wall_history">دیوار برلین در سال ۱۹۶۱ ساخته شد و برلین را به دو بخش شرقی و غربی تقسیم کرد. این دیوار تا سال ۱۹۸۹ پابرجا بود و نماد جنگ سرد بود. سقوط دیوار برلین نماد اتحاد مجدد آلمان و پایان جنگ سرد بود.</string>
-    <string name="berlin_wall_info">موقعیت: چندین نقطه در شهر\nآدرس: East Side Gallery, Mühlenstraße, 10243 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="berlin_wall_tips">گالری ساید شرقی طولترین بخش باقی‌مانده دیوار است\nنکته: هنر خیابانی‌های آن را از دست ندهید</string>
+    <!-- Blue Mosque Content -->
+    <string name="blue_mosque_title">مسجد آبی</string>
+    <string name="blue_mosque_history">مسجد آبی (مسجد سلطان‌احمد) در سال ۱۶۱۶ توسط سلطان احمد اول ساخته شد و به خاطر کاشی‌های آبی رنگ معروف است. این مسجد با شش مناره، یکی از نمادهای اصلی استانبول و شاهکار معماری عثمانی است. مسجد همچنان به عنوان عبادت‌گاه فعال استفاده می‌شود.</string>
+    <string name="blue_mosque_info">موقعیت: منطقه سلطان‌احمد، روبروی ایا صوفیه\nآدرس: Sultan Ahmet Camii, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰ (به جز زمان نماز)\nورود: رایگان</string>
+    <string name="blue_mosque_tips">بهترین زمان بازدید: بین نمازها برای شلوغی کمتر\nنکته: لباس مناسب برای ورود به مسجد به همراه داشته باشید</string>
 
-    <!-- Reichstag Content -->
-    <string name="reichstag_title">رایشستاگ</string>
-    <string name="reichstag_history">ساختمان رایشستاگ در سال ۱۸۹۴ تکمیل شد و محل پارلمان آلمان است. این ساختمان در طول تاریخ شاهد رویدادهای مهمی از جمله آتش‌سوزی معروف سال ۱۹۳۳ و بازسازی پس از اتحاد آلمان بوده است.</string>
-    <string name="reichstag_info">موقعیت: نزدیک دروازه براندنبورگ\nآدرس: Platz der Republik 1, 11011 Berlin\nساعات بازدید: ۸:۰۰-۲۴:۰۰\nورود: رایگان (ثبت‌نام آنلاین لازم)</string>
-    <string name="reichstag_tips">گنcup شیشه‌ای طراحی معروف نورمن فاستر است\nنکته: حتماً قبل از بازدید آنلاین ثبت‌نام کنید</string>
+    <!-- Topkapi Palace Content -->
+    <string name="topkapi_palace_title">کاخ توپکاپی</string>
+    <string name="topkapi_palace_history">کاخ توپکاپی در قرن پانزدهم توسط سلطان محمد فاتح ساخته شد و بیش از ۴۰۰ سال مرکز امپراتوری عثمانی بود. این کاخ شامل چندین ساختمان، حیاط، و مجموعه‌های هنری و تاریخی ارزشمند است و به عنوان یکی از بزرگ‌ترین موزه‌های جهان شناخته می‌شود.</string>
+    <string name="topkapi_palace_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Topkapı Sarayı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰ (به جز سه‌شنبه)\nورود: ۱۲۰ لیر ترکیه</string>
+    <string name="topkapi_palace_tips">جواهرات سلطنتی و حرم‌سرا بسیار دیدنی هستند\nنکته: حداقل ۳-۴ ساعت برای بازدید کامل نیاز دارید</string>
 
-    <!-- Museum Island Content -->
-    <string name="museum_island_title">جزیره موزه‌ها</string>
-    <string name="museum_island_history">جزیره موزه‌ها در سال ۱۹۹۹ در فهرست میراث جهانی یونسکو ثبت شد. این مجموعه شامل پنج موزه معروف است که مجموعه‌های هنری و تاریخی از دوران باستان تا قرن نوزدهم را در خود جای داده‌اند.</string>
-    <string name="museum_island_info">موقعیت: مرکز شهر، روی رود اسپری\nآدرس: Museumsinsel, 10178 Berlin\nساعات بازدید: بسته به موزه\nورود: ۱۸ یورو برای تمام موزه‌ها</string>
-    <string name="museum_island_tips">موزه پرگامون محبوب‌ترین موزه است\nنکته: بلیط یک روزه تمام موزه‌ها مقرون‌به‌صرفه است</string>
+    <!-- Suleymaniye Mosque Content -->
+    <string name="suleymaniye_mosque_title">مسجد سلیمانیه</string>
+    <string name="suleymaniye_mosque_history">مسجد سلیمانیه در سال ۱۵۵۷ توسط معمار بزرگ سینان برای سلطان سلیمان قانونی ساخته شد. این مسجد به عنوان شاهکار معماری عثمانی شناخته می‌شود و با گنبد بزرگ و مناره‌های بلند خود، چشم‌انداز زیبایی از شهر دارد.</string>
+    <string name="suleymaniye_mosque_info">موقعیت: منطقه فاتح\nآدرس: Süleymaniye Camii, 34116 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: رایگان</string>
+    <string name="suleymaniye_mosque_tips">منظره‌ای خیره‌کننده از تنگه بسفر دارد\nنکته: آرامگاه سلطان سلیمان و همسرش در محوطه مسجد قرار دارد</string>
 
-    <!-- Charlottenburg Palace Content -->
-    <string name="charlottenburg_palace_title">کاخ شارلوتنبورگ</string>
-    <string name="charlottenburg_palace_history">این کاخ بزرگ‌ترین کاخ در برلین است که در قرن هفدهم برای همسر پادشاه فردریک اول ساخته شد. کاخ در جنگ جهانی دوم به شدت آسیب دید و با دقت بازسازی شد.</string>
-    <string name="charlottenburg_palace_info">موقعیت: غرب برلین\nآدرس: Spandauer Damm 10-22, 14059 Berlin\nساعات بازدید: ۱۰:۰۰-۱۷:۰۰\nورود: ۱۲ یورو</string>
-    <string name="charlottenburg_palace_tips">باغ‌های کاخ بسیار زیبا و برای قدم‌ عالی هستند\nنکته: در تابستان کنسرت‌های موسیقی در باغ برگزار می‌شود</string>
+    <!-- Grand Bazaar Content -->
+    <string name="grand_bazaar_title">بازار بزرگ</string>
+    <string name="grand_bazaar_history">بازار بزرگ در قرن پانزدهم ساخته شد و یکی از قدیمی‌ترین و بزرگ‌ترین بازارهای سرپوشیده جهان است. این بازار با بیش از ۴۰۰۰ فروشگاه، مرکز تجارت سنتی و صنایع دستی استانبول بوده و همچنان مقصدی محبوب برای خرید و تفریح است.</string>
+    <string name="grand_bazaar_info">موقعیت: منطقه فاتح\nآدرس: Grand Bazaar, 34120 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۹:۰۰ (یکشنبه تعطیل)\nورود: رایگان</string>
+    <string name="grand_bazaar_tips">صدها نوع صنایع دستی و سوغاتی در دسترس است\nنکته: مهارت چانه‌زنی برای خرید بهتر ضروری است</string>
 
-    <!-- Berlin Cathedral Content -->
-    <string name="berlin_cathedral_title">کلیسای جامع برلین</string>
-    <string name="berlin_cathedral_history">این کلیسای جامع باشکوه در سال ۱۹۰۵ تکمیل شد و نماد معماری پروتستان است. گنبد اصلی در جنگ جهانی دوم تخریب شد و در سال ۱۹۹۳ بازسازی شد.</string>
-    <string name="berlin_cathedral_info">موقعیت: جزیره موزه‌ها\nآدرس: Am Lustgarten, 10178 Berlin\nساعات بازدید: ۹:۰۰-۲۰:۰۰\nورود: ۱۰ یورو</string>
-    <string name="berlin_cathedral_tips">از پله‌ها به بالای گنبد بروید تا منظره‌ای فوق‌العاده داشته باشید\nنکته: برای عکاسی داخل کلیسا هزینه جداگانه وجود دارد</string>
+    <!-- Dolmabahce Palace Content -->
+    <string name="dolmabahce_palace_title">کاخ دلمه باغچه</string>
+    <string name="dolmabahce_palace_history">کاخ دلمه باغچه در قرن نوزدهم توسط سلطان عبدالمجید اول ساخته شد و نماد معماری اروپایی در دوره عثمانی است. این کاخ با ترکیبی از سبک‌های معماری مختلف، لوکس‌ترین کاخ امپراتوری عثمانی بود و محل زندگی آخرین خلفای عثمانی بود.</string>
+    <string name="dolmabahce_palace_info">موقعیت: منطقه بشیکتاش\nآدرس: Dolmabahçe Sarayı, 34349 Beşiktaş/İstanbul\nساعات بازدید: ۹:۰۰-۱۶:۰۰ (دوشنبه و پنجشنبه تعطیل)\nورود: ۱۵۰ لیر ترکیه</string>
+    <string name="dolmabahce_palace_tips">بزرگترین کریستال چلچراغ جهان در این کاخ قرار دارد\nنکته: اتاق مصطفی کمال آتاتورک بسیار بازدید شده است</string>
 
-    <!-- Alexanderplatz Content -->
-    <string name="alexanderplatz_title">میدان الکساندر</string>
-    <string name="alexanderplatz_history">این میدان در سال ۱۸۰۵ به نام الکساندر اول، پادشاه روسیه نام‌گذاری شد. در دوران آلمان شرقی، میدان الکساندر مرکز تجاری و فرهنگی شهر بود و امروزه نیز یکی از مراکز اصلی برلین است.</string>
-    <string name="alexanderplatz_info">موقعیت: مرکز شرق برلین\nآدرس: 10178 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="alexanderplatz_tips">برج تلویزیون نماد اصلی میدان است\nنکته: برای خرید و تفریحات مناسب است</string>
+    <!-- Galata Tower Content -->
+    <string name="galata_tower_title">برج گالاتا</string>
+    <string name="galata_tower_history">برج گالاتا در قرن چهاردهم توسط تجار جنوا ساخته شد و قدیمی‌ترین برج استانبول است. این برج با ارتفاع ۶۷ متر، در طول تاریخ به عنوان برج دیده‌بانی و برج آتش‌نشانی استفاده می‌شد و امروزه یکی از بهترین نقاط دیدن منظره شهر است.</string>
+    <string name="galata_tower_info">موقعیت: منطقه بی‌اوغلو\nآدرس: Galata Kulesi, 34421 Beyoğlu/İstanbul\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: ۷۵ لیر ترکیه</string>
+    <string name="galata_tower_tips">منظره‌ای ۳۶۰ درجه از کل استانبول دارد\nنکته: رستوران بالای برج بسیار پرطرفدار است</string>
 
-    <!-- Potsdamer Platz Content -->
-    <string name="potzdamer_platz_title">پوتسدامر پلاتز</string>
-    <string name="potzdamer_platz_history">پوتسدامر پلاتز در دوران طلایی برلین (دهه ۱۹۲۰) شلوغ‌ترین میدان اروپا بود. در جنگ جهانی دوم به طور کامل تخریب شد و در طول تقسیم آلمان در منطقه‌ی مرزی قرار داشت. بازسازی مدرن آن در دهه ۱۹۹۰ انجام شد.</string>
-    <string name="potzdamer_platz_info">موقعیت: مرکز برلین\nآدرس: 10785 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="potzdamer_platz_tips">معماری مدرن آن بسیار دیدنی است\nنکته: در زمستان بازار کریسمس زیبایی دارد</string>
+    <!-- Galata Bridge Content -->
+    <string name="galata_bridge_title">پل گالاتا</string>
+    <string name="galata_bridge_history">پل گالاتا در سال ۱۸۴۵ ساخته شد و یکی از نمادهای اصلی استانبول است. این پل تاریخی دو بخش اروپایی و آسیایی را به هم متصل می‌کند و محل استراحت، ماهیگیری و تفریح مردم شهر است. پل فعلی در سال ۱۹۹۴ بازسازی شده است.</string>
+    <string name="galata_bridge_info">موقعیت: بین کاراکوی و امینونو\nآدرس: Galata Bridge, İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="galata_bridge_tips">ماهیگیری از روی پل تفریحی سنتی است\nنکته: رستوران‌های ماهی زیر پل بسیار معروف هستند</string>
 
-    <!-- Checkpoint Charlie Content -->
-    <string name="checkpoint_charlie_title">پاسگاه چارلی</string>
-    <string name="checkpoint_charlie_history">پاسگاه چارلی معروف‌ترین عبور مرزی بین شرق و غرب برلین بود. این پاسگاه شاهد تنش‌های بسیاری در جنگ سرد بود و امروزه به عنوان موزه و نماد تاریخی باقی مانده است.</string>
-    <string name="checkpoint_charlie_info">موقعیت: کایزردام\nآدرس: Friedrichstraße 43-45, 10969 Berlin\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: موزه ۱۴.۵ یورو</string>
-    <string name="checkpoint_charlie_tips">موزه پاسگاه چارلی بسیار دیدنی است\nنکته: افراد لباس‌پوش سربازان آمریکایی برای عکاسی وجود دارند</string>
+    <!-- Basilica Cistern Content -->
+    <string name="basilica_cistern_title">حوض قیصریه</string>
+    <string name="basilica_cistern_history">حوض قیصریه در قرن ششم میلادی توسط امپراتور ژوستینین اول ساخته شد تا آب شیرین شهر را تأمین کند. این مخزن زیرزمینی با ۳۳۶ ستون مرمری، یکی از شاهکارهای مهندسی بیزانس است و در فیلم‌های معروفی مانند جیمز باند به تصویر کشیده شده است.</string>
+    <string name="basilica_cistern_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Yerebatan Sarnıcı, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۹۰ لیر ترکیه</string>
+    <string name="basilica_cistern_tips">نورپردازی و موسیقی فضایی رؤیایی ایجاد کرده است\nنکته: ستون مدوس و ستون اشک‌ها بسیار دیدنی هستند</string>
 
-    <!-- Berlin Zoo Content -->
-    <string name="berlin_zoo_title">باغ وحش برلین</string>
-    <string name="berlin_zoo_history">باغ وحش برلین قدیمی‌ترین باغ وحش آلمان است که در سال ۱۸۴۴ تأسیس شد. در جنگ جهانی دوم تقریباً تمام حیوانات از بین رفتند، اما پس از جنگ با دقت بازسازی شد و امروزه یکی از معروف‌ترین باغ‌وحش‌های اروپاست.</string>
-    <string name="berlin_zoo_info">موقعیت: غرب مرکز شهر\nآدرس: Hardenbergplatz 8, 10787 Berlin\nساعات بازدید: ۹:۰۰-۱۸:۳۰\nورود: ۱۶ یورو</string>
-    <string name="berlin_zoo_tips">بیش از ۲۰,۰۰۰ حیوان در این باغ وحش زندگی می‌کنند\nنکته: آکواریوم مجزا هزینه ورودی جداگانه دارد</string>
+    <!-- Hagia Sophia Museum Content -->
+    <string name="hagia_sophia_museum_title">موزه ایاصوفیا</string>
+    <string name="hagia_sophia_museum_history">ایاصوفیه که بیش از ۱۵۰۰ سال قدمت دارد، از کلیسای بیزانس به مسجد و سپس به موزه تبدیل شد. این بنا با معماری بی‌نظیر و تاریخ غنی خود، نماد تلاقی فرهنگ‌ها و ادیان در استانبول است و در فهرست میراث جهانی یونسکو ثبت شده است.</string>
+    <string name="hagia_sophia_museum_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Ayasofya-i Kebir Cami-i Şerifi, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
+    <string name="hagia_sophia_museum_tips">گنبد عظیم و موزاییک‌های بیزانس بسیار دیدنی هستند\nنکته: تاریخچه چندلایه این بنا بسیار جالب است</string>
 
-    <!-- TV Tower Content -->
-    <string name="tv_tower_title">برج تلویزیون برلین</string>
-    <string name="tv_tower_history">برج تلویزیون برلین در سال ۱۹۶۹ ساخته شد و با ارتفاع ۳۶۸ متر، بلندترین ساختمان آلمان است. این برج در دوران آلمان شرقی به عنوان نماد قدرت فناوری و پیشرفت سوسیالیستی ساخته شد و امروزه یکی از نمادهای اصلی برلین محسوب می‌شود.</string>
-    <string name="tv_tower_info">موقعیت: میدان الکساندر\nآدرس: Panoramastraße 1A, 10178 Berlin\nساعات بازدید: ۹:۰۰-۲۴:۰۰\nورود: ۱۶.۵۰ یورو</string>
-    <string name="tv_tower_tips">از بالای برج منظره‌ای ۳۶۰ درجه از شهر را ببینید\nنکته: رستوران دوار در بالای برج تجربه‌ای منحصر به فرد است</string>
+    <!-- Maiden's Tower Content -->
+    <string name="maidens_tower_title">برج میدان</string>
+    <string name="maidens_tower_history">برج میدان در جزیره کوچکی در تنگه بسفر قرار دارد و تاریخچه‌ای غنی به طول ۲۵۰۰ سال دارد. این برج که در ابتدا به عنوان برج دیده‌بانی استفاده می‌شد، امروزه به عنوان رستوران و کافه مقصدی رمانتیک برای گردشگران است.</string>
+    <string name="maidens_tower_info">موقعیت: تنگه بسفر\nآدرس: Maiden\'s Tower, Üsküdar/İstanbul\nساعات بازدید: ۱۲:۰۰-۲۳:۰۰\nورود: رایگان (با هزینه رستوران)</string>
+    <string name="maidens_tower_tips">منظره‌ای زیبا از شهر و دریا دارد\nنکته: افسانه‌های عاشقانه زیادی درباره این برج وجود دارد</string>
 
-    <!-- Holocaust Memorial Content -->
-    <string name="holocaust_memorial_title">بن یادبود هولوکاست</string>
-    <string name="holocaust_memorial_history">این بن یادبود به یاد یهودیان قربانی هولوکاست در جنگ جهانی دوم ساخته شد و در سال ۲۰۰۵ افتتاح گردید. مجموعه شامل ۲۷۱۱ ستون بتنی است که بازدیدکنندگان را به عبور و تفکر دعوت می‌کند.</string>
-    <string name="holocaust_memorial_info">موقعیت: مرکز شهر\nآدرس: Cora-Berliner-Straße 1, 10117 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="holocaust_memorial_tips">موزه زیرزمینی بسیار تأثیرگذار است\nنکته: با احترام و سکوت در میان ستون‌ها راه بروید</string>
+    <!-- Beylerbeyi Palace Content -->
+    <string name="beylerbeyi_palace_title">کاخ بیازیت</string>
+    <string name="beylerbeyi_palace_history">کاخ بیلربیی در قرن نوزدهم توسط سلطان عبدالعزیز ساخته شد و به عنوان کاخ تابستانی سلاطین عثمانی استفاده می‌شد. این کاخ با معماری زیبا و باغ‌های سرسبز خود، نماد شکوه و عظمت امپراتوری عثمانی در دوره‌های پایانی است.</string>
+    <string name="beylerbeyi_palace_info">موقعیت: منطقه اوسکودار\nآدرس: Beylerbeyi Sarayı, 34674 Üsküdar/İstanbul\nساعات بازدید: ۹:۰۰-۱۷:۰۰ (دوشنبه و پنجشنبه تعطیل)\nورود: ۱۰۰ لیر ترکیه</string>
+    <string name="beylerbeyi_palace_tips">باغ‌های بسیار زیبا و آرامش‌بخش دارد\nنکته: نمونه‌های معماری عثمانی و اروپایی در این کاخ ترکیب شده‌اند</string>
 
-    <!-- Unter den Linden Content -->
-    <string name="unter_den_linden_title">خیابان اونتر دن لیندن</string>
-    <string name="unter_den_linden_history">این خیابان معروف در قرن هفدهم به عنوان مسیر سواری پادشاه به قصر شارلوتنبورگ ساخته شد و به خاطر درختان لیندن (نوعی درخت نعناع) نام‌گذاری گردید. این خیابان شاهد رویدادهای تاریخی مهمی بوده و قلب تپنده برلین محسوب می‌شود.</string>
-    <string name="unter_den_linden_info">موقعیت: از دروازه براندنبورگ تا جزیره موزه‌ها\nآدرس: Unter den Linden, 10117 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="unter_den_linden_tips">پیاده‌روی در این خیابان تجربه‌ای تاریخی است\nنکته: ساختمان‌های تاریخی و کافه‌های زیبایی در مسیر وجود دارد</string>
+    <!-- Istiklal Avenue Content -->
+    <string name="istiklal_avenue_title">خیابان استقلال</string>
+    <string name="istiklal_avenue_history">خیابان استقلال قلب تپنده بخش اروپایی استانبول است و تاریخچه‌ای غنی به قدمت چند قرن دارد. این خیابان که در گذشته به نام خیابان بزرگ معروف بود، مرکز تجارت، فرهنگ و زندگی شهری است و ساختمان‌های تاریخی و کنسولگری‌های زیادی در آن قرار دارد.</string>
+    <string name="istiklal_avenue_info">موقعیت: منطقه بی‌اوغلو\nآدرس: İstiklal Caddesi, Beyoğlu/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="istiklal_avenue_tips">ترامway قرمز تاریخی تجربه‌ای خاطره‌انگیز است\nنکته: کافه‌ها، فروشگاه‌ها و مراکز فرهنگی زیادی در مسیر است</string>
 
-    <!-- Kaiser Wilhelm Church Content -->
-    <string name="kaiser_wilhelm_church_title">کنیسه قیصر ویلهلم</string>
-    <string name="kaiser_wilhelm_church_history">این کنیسه در سال ۱۸۹۵ به افتخار قیصر ویلهلم اول ساخته شد و در بمباران‌های جنگ جهانی دوم به شدت آسیب دید. ویرانه‌های آن به عنوان یادبود جنگ حفظ شده و کنیسه جدیدی در کنار آن ساخته شد.</string>
-    <string name="kaiser_wilhelm_church_info">موقعیت: مرکز خرید غرب برلین\nآدرس: Breitscheidplatz, 10789 Berlin\nساعات بازدید: ۹:۰۰-۱۹:۰۰\nورود: رایگان</string>
-    <string name="kaiser_wilhelm_church_tips">شیشه‌های رنگی آبی جدید بسیار زیبا هستند\nنکته: ویرانه‌ها نماد صلح و آشتی هستند</string>
+    <!-- Ahrida Synagogue Content -->
+    <string name="ahrida_synagogue_title">کنیسه اهریدا</string>
+    <string name="ahrida_synagogue_history">کنیسه اهریدا در قرن پانزدهم توسط یهودیان اسپانیایی ساخته شد و قدیمی‌ترین کنیسه استانبول است. این کنیسه با معماری خاص و تاریح غنی خود، نماد حضور چند صد ساله جامعه یهودیان در استانبول است.</string>
+    <string name="ahrida_synagogue_info">موقعیت: منطقه بالات\nآدرس: Ahrida Synagogue, Balat/İstanbul\nساعات بازدید: با هماهنگی قبلی\nورود: رایگان</string>
+    <string name="ahrida_synagogue_tips">معماری منحصر به فرد و بسیار زیبا است\nنکته: برای بازدید نیاز به هماهنگی قبلی دارد</string>
 
-    <!-- Gropius Bau Content -->
-    <string name="gropius_bau_title">موزه گروپیوس‌بائو</string>
-    <string name="gropius_bau_history">این ساختمان در سال ۱۸۸۱ به عنوان موزه هنرهای تزئینی طراحی شد و یکی از مهم‌ترین موزه‌های هنر مدرن برلین است. ساختمان به خاطر معماری زیبا و نمایشگاه‌های هنری متنوع شهرت جهانی دارد.</string>
-    <string name="gropius_bau_info">موقعیت: نزدیک پاسگاه چارلی\nآدرس: Niederkirchnerstraße 7, 10963 Berlin\nساعات بازدید: ۱۰:۰۰-۱۸:۰۰\nورود: بسته به نمایشگاه</string>
-    <string name="gropius_bau_tips">نمایشگاه‌های هنری مدرن و معاصر بسیار عالی هستند\nنکته: فضای باز در مرکز ساختمان برای استراحت مناسب است</string>
+    <!-- Turkish and Islamic Arts Museum Content -->
+    <string name="turkish_islamic_arts_museum_title">موزه هنرهای ترکیه و اسلامی</string>
+    <string name="turkish_islamic_arts_museum_history">موزه هنرهای ترکیه و اسلامی در سال ۱۹۱۳ تأسیس شد و در کاخ زیبای ابراهیم پاشا قرار دارد. این موزه مجموعه‌های بی‌نظیری از هنر اسلامی، فرش‌های عثمانی، و آثار هنری از سراسر جهان اسلام را در خود جای داده است.</string>
+    <string name="turkish_islamic_arts_museum_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Türk ve İslam Eserleri Müzesi, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۱۸:۰۰\nورود: ۷۵ لیر ترکیه</string>
+    <string name="turkish_islamic_arts_museum_tips">مجموعه‌های فرش عثمانی بسیار ارزشمند هستند\nنکته: ساختمان موزه خود یک اثر تاریخی زیباست</string>
 
-    <!-- Tempelhof Airport Content -->
-    <string name="tempelhof_airport_title">فرودگاه تمپلهوف</string>
-    <string name="tempelhof_airport_history">این فرودگاه در سال ۱۹۲۳ ساخته شد و یکی از بزرگ‌ترین فرودگاه‌های اروپا در دوران نازی‌ها بود. پس از جنگ، فرودگاه در محاصره برلین نقش حیاتی داشت و امروزه به عنوان پارک بزرگ شهری استفاده می‌شود.</string>
-    <string name="tempelhof_airport_info">موقعیت: جنوب برلین\nآدرس: Platz der Luftbrücke, 12101 Berlin\nساعات بازدید: ۶:۰۰-غروب\nورود: رایگان</string>
-    <string name="tempelhof_airport_tips">پارک بسیار بزرگ برای دوچرخه‌سواری و پیاده‌روی عالی است\nنکته: تورهای ساختمان فرودگاه بسیار دیدنی است</string>
+    <!-- Ataturk Airport Content -->
+    <string name="ataturk_airport_title">فرودگاه آتاتورک</string>
+    <string name="ataturk_airport_history">فرودگاه بین‌المللی آتاتورک در سال ۱۹۲۴ ساخته شد و به عنوان اصلی‌ترین فرودگاه استانبول برای بیش از ۸۰ سال خدمت کرده است. این فرودگاه که به نام بنیانگذار جمهوری ترکیه نام‌گذاری شده، نقش مهمی در تاریخ هوانوردی ترکیه داشته است.</string>
+    <string name="ataturk_airport_info">موقعیت: منطقه ینی‌کاپی\nآدرس: Atatürk Havalimanı, Yeşilköy/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان (برای مسافران)</string>
+    <string name="ataturk_airport_tips">یکی از شلوغ‌ترین فرودگاه‌های اروپاست\nنکته: تسهیلات مدرن و کامل برای مسافران دارد</string>
 
-    <!-- Hackescher Markt Content -->
-    <string name="hackescher_markt_title">بازار هاکشر</string>
-    <string name="hackescher_markt_history">این منطقه در قرن نوزدهم به عنوان مرکز تجاری توسعه یافت و امروزه یکی از پرجنب‌وجوش‌ترین مناطق برلین است. معابر کوچک، کافه‌های هنری و فروشگاه‌های مستقل این منطقه را به محلی محبوب تبدیل کرده‌اند.</string>
-    <string name="hackescher_markt_info">موقعیت: مرکز شرق برلین\nآدرس: Hackescher Markt, 10178 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="hackescher_markt_tips">کافه‌ها و رستوران‌های عالی برای نوشیدن قهوه\nنکته: معابر کوچک و ساختمان‌های تاریخی بسیار دیدنی هستند</string>
+    <!-- Egyptian Bazaar Content -->
+    <string name="egyptian_bazaar_title">بازار مصری</string>
+    <string name="egyptian_bazaar_history">بازار مصری در قرن هفدهم ساخته شد و به خاطر ادویه‌ها و محصولات وارداتی از مصر معروف است. این بازار با معماری زیبا و رنگارنگ خود، مرکز فروش ادویه‌جات، شیرینی‌های ترکی، و سوغاتی‌های سنتی است.</string>
+    <string name="egyptian_bazaar_info">موقعیت: منطقه امینونو\nآدرس: Egyptian Bazaar, 34116 Fatih/İstanbul\nساعات بازدید: ۸:۰۰-۱۹:۰۰ (یکشنبه تعطیل)\nورود: رایگان</string>
+    <string name="egyptian_bazaar_tips">ادویه‌جات باکیفیت و متنوعی عرضه می‌شود\nنکته: شیرینی پهلوان و لوکوم ترکی بسیار معروف هستند</string>
 
-    <!-- Spandau Citadel Content -->
-    <string name="spandau_citadel_title">قلعه اسپانداو</string>
-    <string name="spandau_citadel_history">این قلعه در قرن شانزدهم ساخته شد و یکی از کامل‌ترین قلعه‌های متوسط در اروپا محسوب می‌شود. قلعه در طول تاریخ آسیب کمی دیده و امروزه میزبان موزه‌ها و رویدادهای فرهنگی است.</string>
-    <string name="spandau_citadel_info">موقعیت: غرب برلین\nآدرس: Am Juliusturm 64, 13599 Berlin\nساعات بازدید: ۱۰:۰۰-۱۷:۰۰\nورود: ۵.۵۰ یورو</string>
-    <string name="spandau_citadel_tips">برترین مناظر شهر را از بالای قلعه ببینید\nنکته: در تابستان کنسرت‌های در فضای باز برگزار می‌شود</string>
+    <!-- Rumeli Fortress Content -->
+    <string name="rumeli_fortress_title">قلعه روملی حصار</string>
+    <string name="rumeli_fortress_history">قلعه روملی حصار در سال ۱۴۵۲ توسط سلطان محمد فاتح قبل از فتح استانبول ساخته شد. این قلعه استراتژیک در تنگه بسفر قرار دارد و نقش مهمی در کنترل عبور و مرور کشتی‌ها و فتح قسطنطنیه داشته است.</string>
+    <string name="rumeli_fortress_info">موقعیت: تنگه بسفر\nآدرس: Rumeli Hisarı, Sarıyer/İstanbul\nساعات بازدید: ۹:۰۰-۱۹:۰۰ (سه‌شنبه تعطیل)\nورود: ۱۰۰ لیر ترکیه</string>
+    <string name="rumeli_fortress_tips">منظره‌ای زیبا از تنگه بسفر دارد\nنکته: در تابستان کنسرت‌های موسیقی در فضای باز برگزار می‌شود</string>
 
-    <!-- Treptower Park Content -->
-    <string name="treptower_park_title">پارک ترپتاور</string>
-    <string name="treptower_park_history">این پارک در قرن نوزدهم به عنوان فضای سبز تفریحی ساخته شد و بن یادبود جنگ شوروی در آن قرار دارد. پارک در کنار رود اسپری و برای پیاده‌روی، دوچرخه‌سواری و تفریحات آبی بسیار مناسب است.</string>
-    <string name="treptower_park_info">موقعیت: شرق برلین\nآدرس: Am Treptower Park, 12435 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="treptower_park_tips">بن یادبود جنگ بسیار باشکوه است\nنکته: قایقرانی در رود اسپری لذت‌بخش است</string>
+    <!-- Gulhane Park Content -->
+    <string name="gulhane_park_title">پارک گولهانه</string>
+    <string name="gulhane_park_history">پارک گولهانه در قرن نوزدهم به عنوان بخشی از کاخ توپکاپی ایجاد شد و یکی از زیباترین فضاهای سبز استانبول است. این پارک با درختان قدیمی، گل‌های فصلی، و منظره‌ای زیبا از تنگه بسفر، محل مناسبی برای استراحت و تفریح است.</string>
+    <string name="gulhane_park_info">موقعیت: منطقه سلطان‌احمد\nآدرس: Gülhane Park, 34122 Fatih/İstanbul\nساعات بازدید: ۹:۰۰-۲۲:۰۰\nورود: رایگان</string>
+    <string name="gulhane_park_tips">محلی عالی برای پیک‌نیک و استراحت\nنکته: بهار بهترین زمان برای بازدید به خاطر شکوفه‌هاست</string>
 
-    <!-- East Side Gallery Content -->
-    <string name="east_side_gallery_title">گالری ساید شرقی</string>
-    <string name="east_side_gallery_history">این گالری در سال ۱۹۹۰ توسط هنرمندان بین‌المللی بر روی دیوار برلین ایجاد شد و طولانی‌ترین بخش باقی‌مانده دیوار است. نقاشی‌های دیواری نماد امید، آزادی و اتحاد آلمان هستند.</string>
-    <string name="east_side_gallery_info">موقعیت: شرق رود اسپری\nآدرس: Mühlenstraße, 10243 Berlin\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
-    <string name="east_side_gallery_tips">هنر خیابانی بسیار خلاقانه و معنادار\nنکته: بهتر است در صبح زود بازدید کنید تا شلوغ نباشد</string>
+    <!-- Theodosian Walls Content -->
+    <string name="theodosian_walls_title">دیوار تئودوسی</string>
+    <string name="theodosian_walls_history">دیوارهای تئودوسی در قرن پنجم میلادی توسط امپراتور تئودوسی دوم ساخته شد و یکی از شاهکارهای مهندسی نظامی دوران باستان است. این دیوارها که شهر را از حملات محافظت می‌کردند، نماد قدرت و عظمت امپراتوری بیزانس بودند.</string>
+    <string name="theodosian_walls_info">موقعیت: بخش‌های مختلف شهر\nآدرس: Theodosian Walls, Fatih/İstanbul\nساعات بازدید: ۲۴ ساعته\nورود: رایگان</string>
+    <string name="theodosian_walls_tips">بخش‌های سالم‌تر در منطقه ادیرنه‌کاپی قرار دارند\nنکته: نمونه‌ای بی‌نظیر از معماری دفاعی دوران باستان است</string>
 
     <!-- Common UI Strings -->
     <string name="back">بازگشت</string>
@@ -173,18 +173,18 @@
     <string name="previous">قبلی</string>
 
     <string name="lorem_ipsum">
-        برلین پایتخت آلمان و یکی از مهم‌ترین شهرهای اروپا است. این شهر با تاریخ غنی، فرهنگ متنوع و معماری مدرن، مقصدی جذاب برای گردشگران از سراسر جهان است. برلین شاهد رویدادهای تاریخی مهمی در طول قرن‌ها بوده است و امروزه به عنوان مرکز فرهنگ، هنر و نوآوری در اروپا شناخته می‌شود. از بناهای تاریخی گرفته تا موزه‌های جهانی و فضاهای سبز زیبا، برلین تجربه‌ای فراموش‌نشدنی برای بازدیدکنندگان فراهم می‌کند.
+        استانبول پایتخت فرهنگی ترکیه و یکی از مهم‌ترین شهرهای جهان است. این شهر با تاریخ غنی، فرهنگ متنوع و معماری شگفت‌انگیز، مقصدی جذاب برای گردشگران از سراسر جهان است. استانبول شاهد رویدادهای تاریخی مهمی در طول قرن‌ها بوده است و امروزه به عنوان مرکز فرهنگ، هنر و تجارت در جهان شناخته می‌شود. از بناهای تاریخی گرفته تا مساجد باشکوه و بازارهای سنتی، استانبول تجربه‌ای فراموش‌نشدنی برای بازدیدکنندگان فراهم می‌کند.
     </string>
 
     <!-- About Screen Strings -->
     <string name="about_title">درباره برنامه</string>
     <string name="version">نسخه 1.0</string>
-    <string name="app_description">راهنمای گردشگری برلین - برنامه‌ای جامع برای کشف زیبایی‌ها و تاریخ پایتخت آلمان</string>
+    <string name="app_description">راهنمای گردشگری استانبول - برنامه‌ای جامع برای کشف زیبایی‌ها و تاریخ شهر تاریخی ترکیه</string>
     <string name="features">ویژگی‌های برنامه</string>
-    <string name="features_list">• اطلاعات کامل ۲۰ مکان تاریخی و گردشگری برلین\n• تاریخچه غنی هر مکان به زبان فارسی\n• اطلاعات بازدید و آدرس دقیق\n• نکات مفید برای بازدید بهتر\n• رابط کاربری ساده و زیبا\n• پشتیبانی کامل از زبان فارسی</string>
+    <string name="features_list">• اطلاعات کامل ۲۰ مکان تاریخی و گردشگری استانبول\n• تاریخچه غنی هر مکان به زبان فارسی\n• اطلاعات بازدید و آدرس دقیق\n• نکات مفید برای بازدید بهتر\n• رابط کاربری ساده و زیبا\n• پشتیبانی کامل از زبان فارسی</string>
     <string name="developer_info">توسعه‌دهنده</string>
     <string name="developer_name">محسن شامحمدی</string>
-    <string name="developer_details">محسن شامحمدی\n\nاین برنامه با هدف آشنایی گردشگران فارسی‌زبان با جاذبه‌های تاریخی برلین طراحی شده است. تمامی محتوا به زبان فارسی ارائه شده تا بازدید از این شهر زیبا برای شما آسان‌تر و لذت‌بخش‌تر باشد.</string>
+    <string name="developer_details">محسن شامحمدی\n\nاین برنامه با هدف آشنایی گردشگران فارسی‌زبان با جاذبه‌های تاریخی استانبول طراحی شده است. تمامی محتوا به زبان فارسی ارائه شده تا بازدید از این شهر زیبا برای شما آسان‌تر و لذت‌بخش‌تر باشد.</string>
     <string name="contact_info">اطلاعات تماس</string>
     <string name="contact_details">ایمیل: mhsenpc@gmail.com\n\nبرای ارسال نظرات، پیشنهادات و گزارش مشکلات می‌توانید از طریق ایمیل با ما در ارتباط باشید. نظرات شما به بهبود برنامه کمک می‌کند.</string>
     <string name="place_image">تصویر مکان</string>
@@ -196,26 +196,26 @@
     <string name="original_name_label">نام اصلی:</string>
 
     <!-- Original Place Names -->
-    <string name="brandenburg_gate_original">Brandenburg Gate</string>
-    <string name="berlin_wall_original">Berlin Wall</string>
-    <string name="reichstag_original">Reichstag Building</string>
-    <string name="museum_island_original">Museum Island</string>
-    <string name="charlottenburg_palace_original">Charlottenburg Palace</string>
-    <string name="berlin_cathedral_original">Berlin Cathedral</string>
-    <string name="alexanderplatz_original">Alexanderplatz</string>
-    <string name="potsdamer_platz_original">Potsdamer Platz</string>
-    <string name="checkpoint_charlie_original">Checkpoint Charlie</string>
-    <string name="berlin_zoo_original">Berlin Zoo</string>
-    <string name="tv_tower_original">TV Tower</string>
-    <string name="holocaust_memorial_original">Holocaust Memorial</string>
-    <string name="unter_den_linden_original">Unter den Linden</string>
-    <string name="kaiser_wilhelm_church_original">Kaiser Wilhelm Church</string>
-    <string name="gropius_bau_original">Gropius Bau</string>
-    <string name="tempelhof_airport_original">Tempelhof Airport</string>
-    <string name="hackescher_markt_original">Hackescher Markt</string>
-    <string name="spandau_citadel_original">Spandau Citadel</string>
-    <string name="treptower_park_original">Treptower Park</string>
-    <string name="east_side_gallery_original">East Side Gallery</string>
+    <string name="hagia_sophia_original">Hagia Sophia</string>
+    <string name="blue_mosque_original">Blue Mosque</string>
+    <string name="topkapi_palace_original">Topkapi Palace</string>
+    <string name="suleymaniye_mosque_original">Suleymaniye Mosque</string>
+    <string name="grand_bazaar_original">Grand Bazaar</string>
+    <string name="dolmabahce_palace_original">Dolmabahce Palace</string>
+    <string name="galata_tower_original">Galata Tower</string>
+    <string name="galata_bridge_original">Galata Bridge</string>
+    <string name="basilica_cistern_original">Basilica Cistern</string>
+    <string name="hagia_sophia_museum_original">Hagia Sophia Museum</string>
+    <string name="maidens_tower_original">Maiden\'s Tower</string>
+    <string name="beylerbeyi_palace_original">Beylerbeyi Palace</string>
+    <string name="istiklal_avenue_original">Istiklal Avenue</string>
+    <string name="ahrida_synagogue_original">Ahrida Synagogue</string>
+    <string name="turkish_islamic_arts_museum_original">Turkish and Islamic Arts Museum</string>
+    <string name="ataturk_airport_original">Ataturk Airport</string>
+    <string name="egyptian_bazaar_original">Egyptian Bazaar</string>
+    <string name="rumeli_fortress_original">Rumeli Fortress</string>
+    <string name="gulhane_park_original">Gulhane Park</string>
+    <string name="theodosian_walls_original">Theodosian Walls</string>
 
     <!-- Bookmark Strings -->
     <string name="bookmark_place">نشانکذاری مکان</string>

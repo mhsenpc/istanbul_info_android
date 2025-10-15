@@ -50,7 +50,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="16dp"
                         android:gravity="center"
-                        android:text="اطلاعات گردشگری برلین"
+                        android:text="اطلاعات گردشگری استانبول"
                         android:textColor="?attr/colorPrimary"
                         android:textSize="28sp"
                         android:textStyle="bold" />
